@@ -1,0 +1,2 @@
+class AddTodateToMemo < ApplicationRecord
+end
